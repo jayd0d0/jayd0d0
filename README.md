@@ -1,7 +1,7 @@
 # Hi, I’m Jason 👋  
 
 <p align="center">
-  <img src="download.gif" alt="gif" width="600"/>
+  <img src="download.gif" alt="gif"/>
 </p>
 
 ---
